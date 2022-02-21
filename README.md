@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stellatrix
+- 👋 Hi, I’m Stela!
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning JS, HTML, CSS, 
 - 💞️ I’m looking to collaborate on Single Page Applicaions
